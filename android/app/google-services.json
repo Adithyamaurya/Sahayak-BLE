@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54982514977",
+    "project_id": "sahayak-8cfeb",
+    "storage_bucket": "sahayak-8cfeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54982514977:android:bc60293b3379c6c2260660",
+        "android_client_info": {
+          "package_name": "com.example.sahayak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdfxsLJpoW2_H0iz1_ePTtG9QrDfesMok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
