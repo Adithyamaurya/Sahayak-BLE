@@ -1,6 +1,6 @@
 # sahayak
 
-A new Flutter project.
+Sahayak is a real-time emergency response application for Mumbai that provides quick assistance in critical situations. The main idea behind the app is to reduce response time by enabling nearby users to act as first responders instead of relying only on centralized emergency services. It combines technologies like GPS, Bluetooth, and  to help users send SOS alerts, locate people in distress, and stay aware of nearby emergencies. About the technologies we use are flutter and firebase.
 
 ## Getting Started
 
